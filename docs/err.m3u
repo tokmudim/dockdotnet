@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png" tvg-name="TV2"  group-title="MALAYSIA",TV2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tvi.png" tvg-name="TVi"  group-title="MALAYSIA",TVi
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/muzik.png" tvg-name="MUZIK AKTIF"  group-title="MALAYSIA",MUZIK AKTIF
+http://rtm-live.glueapi.io/smil:rtmch004/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/1news.png" tvg-name="1NEWS"  group-title="MALAYSIA",1NEWS
+http://rtm-live.glueapi.io/smil:rtmch006/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/parlimen.png" tvg-name="PARLIMEN TV"  group-title="MALAYSIA",PARLIMEN TV
+http://rtm-live.glueapi.io/smil:rtmch007/chunklist_b1040000_sleng.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
