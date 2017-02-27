@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0
+#EXTINF:0, tvg-id="skysport1" tvg-name="Sky Sports 1 HD"
 http://mcdn-play-358.5centscdn.net/skysports1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
 
-#EXTINF:0
+#EXTINF:0, tvg-id="skysport2" tvg-name="Sky Sports 2 HD"
 http://mcdn-play-358.5centscdn.net/skysports2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
