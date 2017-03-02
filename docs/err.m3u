@@ -1,7 +1,13 @@
 #EXTM3U
 
-#EXTINF:0, Sky Sports 1 HD
-http://mcdn-play-358.5centscdn.net/skysports1hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0, tvg-id="TV1" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:0, Sky Sports 2 HD
-http://mcdn-play-358.5centscdn.net/skysports2hdextv/5c6d78cffa59e129f040fcec2d788532.sdp/index.m3u8
+#EXTINF:0, tvg-id="TV2" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/tv2.png" tvg-name="TV2"  group-title="MALAYSIA",TV2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:0, tvg-id="Awani" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/astro_awani.png" tvg-name="AWANI"  group-title="MALAYSIA",AWANI
+http://bcoveliveios-i.akamaihd.net/hls/live/225864/4508222217001/master_Layer5.m3u8
+
+#EXTINF:0, tvg-id="Bernama" tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_fta/bernama.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA
+http://stream2.1malaysiaiptv.com/mylive/smil:bernama2_all.smil/playlist.m3u8
